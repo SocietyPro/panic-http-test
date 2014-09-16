@@ -1,0 +1,30 @@
+{
+  "name": "panic-http-test",
+  "version": "0.1.0",
+  "description": "Test eve online http communication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SocietyPro/panic-http-test.git"
+  },
+  "keywords": [
+    "societypro",
+    "eveonline",
+    "panic",
+    "express"
+  ],
+  "author": "plato-cambrian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SocietyPro/panic-http-test/issues"
+  },
+  "homepage": "https://github.com/SocietyPro/panic-http-test",
+  "devDependencies": {
+    "express": "^3.17.2",
+    "jade": "^1.6.0"
+  }
+}
